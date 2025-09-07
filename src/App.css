@@ -1,0 +1,7 @@
+@font-face {
+  font-family: "Excalifont";
+  src: url(/public/Excalifont-Regular.woff2) format("woff2");
+  font-weight: 400;
+  style: normal;
+  display: swap;
+}
